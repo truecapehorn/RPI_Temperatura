@@ -1,0 +1,1 @@
+{'histereza': 48, 'z_run': 50, 'temp_zad2': 47, 'temp_zad1': 46, 'time_sleep': 49}
